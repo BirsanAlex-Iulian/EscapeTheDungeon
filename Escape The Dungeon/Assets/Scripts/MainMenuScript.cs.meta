@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1a2609f30d35bd64d9ccbe67e8bc8707
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cancelB: {fileID: 2800000, guid: 13062b83441fbd0478622f74bc2a1150, type: 3}
+  - exitB: {fileID: 2800000, guid: 2446fb3fee522bd47898df1441c1b68b, type: 3}
+  - loadB: {fileID: 2800000, guid: 9f2d49312fd32c44fa214cb035e8ae77, type: 3}
+  - saveB: {fileID: 2800000, guid: d31df5cc0fc8f124eae9c9a8568feac8, type: 3}
+  - startB: {fileID: 2800000, guid: b45ba5b6c49526d40900e8c31057d454, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
